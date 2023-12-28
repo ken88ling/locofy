@@ -103,10 +103,10 @@ const ClientTestimonialContainer = memo(() => {
                     </div>
                   </div>
                   <div className={styles.buttonPreviousSlide}>
-                    <img className={styles.svgIcon} alt="" src="/svg@2x.png" />
+                    <img className={styles.svgIcon} alt="" src="/svg4@2x.png" />
                   </div>
                   <div className={styles.buttonNextSlide}>
-                    <img className={styles.svgIcon} alt="" src="/svg@2x.png" />
+                    <img className={styles.svgIcon} alt="" src="/svg5@2x.png" />
                   </div>
                 </div>
               </div>

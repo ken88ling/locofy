@@ -44,7 +44,7 @@ const ClientTestimonialContainer1 = memo(() => {
                                   <img
                                     className={styles.homeTestimonial2webpIcon}
                                     alt=""
-                                    src="/hometestimonial2webp@2x.png"
+                                    src="/hometestimonial2webp1@2x.png"
                                   />
                                 </div>
                               </div>
@@ -102,10 +102,18 @@ const ClientTestimonialContainer1 = memo(() => {
                     </div>
                   </div>
                   <div className={styles.buttonPreviousSlide}>
-                    <img className={styles.svgIcon} alt="" src="/svg@2x.png" />
+                    <img
+                      className={styles.svgIcon}
+                      alt=""
+                      src="/svg21@2x.png"
+                    />
                   </div>
                   <div className={styles.buttonNextSlide}>
-                    <img className={styles.svgIcon} alt="" src="/svg@2x.png" />
+                    <img
+                      className={styles.svgIcon}
+                      alt=""
+                      src="/svg22@2x.png"
+                    />
                   </div>
                 </div>
               </div>
@@ -117,7 +125,7 @@ const ClientTestimonialContainer1 = memo(() => {
             <img
               className={styles.lefImage1webpIcon}
               alt=""
-              src="/lefimage1webp@2x.png"
+              src="/lefimage1webp1@2x.png"
             />
           </div>
         </div>

@@ -12,62 +12,62 @@ const HotelWallpaperPatternContainer1 = memo(() => {
         <img
           className={styles.monsteraLeafLineDrawing}
           alt=""
-          src="/monstera-leaf--line-drawing@2x.png"
+          src="/monstera-leaf--line-drawing2@2x.png"
         />
         <img
           className={styles.monsteraLeafLineDrawing1}
           alt=""
-          src="/monstera-leaf--line-drawing@2x.png"
+          src="/monstera-leaf--line-drawing3@2x.png"
         />
         <img
           className={styles.gardeniaLineDrawing}
           alt=""
-          src="/gardenia--line-drawing@2x.png"
+          src="/gardenia--line-drawing2@2x.png"
         />
         <img
           className={styles.gardeniaLineDrawing1}
           alt=""
-          src="/gardenia--line-drawing@2x.png"
+          src="/gardenia--line-drawing3@2x.png"
         />
         <img
           className={styles.chrysanthemumLineDrawing}
           alt=""
-          src="/chrysanthemum--line-drawing@2x.png"
+          src="/chrysanthemum--line-drawing2@2x.png"
         />
         <img
           className={styles.chrysanthemumLineDrawing1}
           alt=""
-          src="/chrysanthemum--line-drawing@2x.png"
+          src="/chrysanthemum--line-drawing3@2x.png"
         />
         <img
           className={styles.carnationLineDrawing}
           alt=""
-          src="/carnation--line-drawing@2x.png"
+          src="/carnation--line-drawing2@2x.png"
         />
         <img
           className={styles.carnationLineDrawing1}
           alt=""
-          src="/carnation--line-drawing@2x.png"
+          src="/carnation--line-drawing3@2x.png"
         />
         <img
           className={styles.tulipLineDrawing}
           alt=""
-          src="/tulip--line-drawing@2x.png"
+          src="/tulip--line-drawing2@2x.png"
         />
         <img
           className={styles.tulipLineDrawing1}
           alt=""
-          src="/tulip--line-drawing@2x.png"
+          src="/tulip--line-drawing3@2x.png"
         />
         <img
           className={styles.hyacinthLineDrawing}
           alt=""
-          src="/hyacinth--line-drawing@2x.png"
+          src="/hyacinth--line-drawing1@2x.png"
         />
         <img
           className={styles.quakingGrassLineDrawing}
           alt=""
-          src="/quaking-grass--line-drawing@2x.png"
+          src="/quaking-grass--line-drawing1@2x.png"
         />
       </div>
       <div className={styles.divelementorRow}>
@@ -144,7 +144,7 @@ const HotelWallpaperPatternContainer1 = memo(() => {
                           <img
                             className={styles.svgIcon}
                             alt=""
-                            src="/svg@2x.png"
+                            src="/svg20@2x.png"
                           />
                         </div>
                       </div>

@@ -18,7 +18,7 @@ const HotelWallpaperPatternContainer = memo(() => {
         <img
           className={styles.monsteraLeafLineDrawing1}
           alt=""
-          src="/monstera-leaf--line-drawing@2x.png"
+          src="/monstera-leaf--line-drawing1@2x.png"
         />
         <img
           className={styles.gardeniaLineDrawing}
@@ -28,7 +28,7 @@ const HotelWallpaperPatternContainer = memo(() => {
         <img
           className={styles.gardeniaLineDrawing1}
           alt=""
-          src="/gardenia--line-drawing@2x.png"
+          src="/gardenia--line-drawing1@2x.png"
         />
         <img
           className={styles.chrysanthemumLineDrawing}
@@ -38,7 +38,7 @@ const HotelWallpaperPatternContainer = memo(() => {
         <img
           className={styles.chrysanthemumLineDrawing1}
           alt=""
-          src="/chrysanthemum--line-drawing@2x.png"
+          src="/chrysanthemum--line-drawing1@2x.png"
         />
         <img
           className={styles.carnationLineDrawing}
@@ -48,7 +48,7 @@ const HotelWallpaperPatternContainer = memo(() => {
         <img
           className={styles.carnationLineDrawing1}
           alt=""
-          src="/carnation--line-drawing@2x.png"
+          src="/carnation--line-drawing1@2x.png"
         />
         <img
           className={styles.tulipLineDrawing}
@@ -58,7 +58,7 @@ const HotelWallpaperPatternContainer = memo(() => {
         <img
           className={styles.tulipLineDrawing1}
           alt=""
-          src="/tulip--line-drawing@2x.png"
+          src="/tulip--line-drawing1@2x.png"
         />
         <img
           className={styles.hyacinthLineDrawing}
@@ -145,7 +145,7 @@ const HotelWallpaperPatternContainer = memo(() => {
                           <img
                             className={styles.svgIcon}
                             alt=""
-                            src="/svg@2x.png"
+                            src="/svg3@2x.png"
                           />
                         </div>
                       </div>

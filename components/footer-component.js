@@ -39,7 +39,7 @@ const FooterComponent = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg6@2x.png"
                       />
                     </div>
                     <a
@@ -55,7 +55,7 @@ const FooterComponent = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg7@2x.png"
                       />
                     </div>
                     <a
@@ -71,7 +71,7 @@ const FooterComponent = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg8@2x.png"
                       />
                     </div>
                     <a
@@ -87,7 +87,7 @@ const FooterComponent = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg9@2x.png"
                       />
                     </div>
                     <a
@@ -103,7 +103,7 @@ const FooterComponent = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg10@2x.png"
                       />
                     </div>
                     <div className={styles.cookieSettings}>Cookie Settings</div>

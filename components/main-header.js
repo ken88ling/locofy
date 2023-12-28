@@ -9,7 +9,7 @@ const MainHeader = memo(() => {
           <img
             className={styles.vcareLogoIcon}
             alt=""
-            src="/vcare-logo@2x.png"
+            src="/vcare-logo1@2x.png"
           />
           <b className={styles.vcare}>VCARE</b>
         </div>
@@ -21,14 +21,14 @@ const MainHeader = memo(() => {
             <img
               className={styles.mingcutedownLineIcon}
               alt=""
-              src="/mingcutedownline@2x.png"
+              src="/mingcutedownline1@2x.png"
             />
           </div>
         </nav>
         <img
           className={styles.frameChild}
           alt=""
-          src="/frame-1000001370@2x.png"
+          src="/frame-10000013701@2x.png"
         />
       </div>
     </header>

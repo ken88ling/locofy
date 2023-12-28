@@ -1,0 +1,333 @@
+.whoWeAre {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 680px;
+}
+.divwdtHeadingSubtitleWrapp {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 553px 0 0;
+  box-sizing: border-box;
+}
+.brands {
+  margin: 0;
+}
+.bestSellingAestheticianSkin {
+  position: relative;
+  line-height: 52.8px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 680px;
+}
+.heading3 {
+  position: absolute;
+  width: 100%;
+  top: 25px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 18px 0.589996337890625px 0;
+  box-sizing: border-box;
+  font-size: 44px;
+  color: #000;
+  font-family: Outfit;
+}
+.nullamEuismodPurusContainer {
+  position: relative;
+  line-height: 26.24px;
+  display: inline-block;
+  max-width: 680px;
+}
+.divwdtHeadingContentWrappe {
+  position: absolute;
+  width: 100%;
+  top: 155.1px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+}
+.divwdtHeading6afadc2 {
+  align-self: stretch;
+  position: relative;
+  height: 207.5px;
+}
+.divelementorElement {
+  position: absolute;
+  top: calc(50% - 309.9px);
+  left: 10.4px;
+  width: 680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 40px;
+  box-sizing: border-box;
+  max-width: 700px;
+}
+.svgIcon {
+  align-self: stretch;
+  position: relative;
+  max-height: 100%;
+  width: 45px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.i,
+.span {
+  width: 45px;
+  display: flex;
+  flex-direction: row;
+}
+.i {
+  height: 45px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span {
+  align-self: stretch;
+  border-radius: 22.5px;
+  align-items: center;
+  justify-content: center;
+}
+.divwdtContentMediaGroup,
+.divwdtContentMediaGroupma {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 43.05999755859375px;
+}
+.divwdtContentMediaGroupma {
+  flex-direction: column;
+  padding: 10px;
+}
+.endToEndBeautySolution {
+  position: relative;
+  line-height: 25.6px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 435px;
+  max-height: 25.600000381469727px;
+}
+.divwdtContentTitlemargin,
+.heading5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 187px 0 0;
+}
+.divwdtContentTitlemargin {
+  padding: 0 0 10px;
+}
+.duisEleifendIpsumContainer {
+  position: relative;
+  line-height: 26.24px;
+}
+.divwdtContentDescription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 49px 0 0;
+  margin-top: -0.01px;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}
+.divwdtContentDetailGroup {
+  align-self: stretch;
+  flex-direction: column;
+}
+.divwdtContentDetailGroup,
+.divwdtContentDetailGroupm,
+.divwdtContentItem {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtContentDetailGroupm {
+  flex: 1;
+  flex-direction: column;
+  padding: 10px 10px 9.470001220703125px;
+}
+.divwdtContentItem {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.divelementorElement1,
+.divwdtIconBox9cb11f3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtIconBox9cb11f3 {
+  align-self: stretch;
+  gap: 14px;
+}
+.divelementorElement1 {
+  position: absolute;
+  top: calc(50% - 62.4px);
+  left: 0.4px;
+  width: 500px;
+  padding: 0 10px 32px 0;
+  box-sizing: border-box;
+  max-width: 500px;
+  font-size: 20px;
+  color: #000;
+  font-family: Outfit;
+}
+.exploreNow {
+  position: relative;
+  letter-spacing: 2.38px;
+  text-transform: uppercase;
+}
+.divwdtButtonText,
+.span1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.span1 {
+  align-self: stretch;
+  align-items: center;
+  padding: 0 0.5237312316894531px 1px 0.8962669372558594px;
+}
+.divwdtButtonText {
+  align-items: flex-start;
+  padding: 12.769000053405762px 32.46110153198242px;
+}
+.divwdtButton9426bac,
+.link {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link {
+  align-self: stretch;
+  background-color: #fd9186;
+  justify-content: center;
+}
+.divwdtButton9426bac {
+  justify-content: flex-start;
+}
+.divelementorElement2,
+.divelementorWidgetContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divelementorWidgetContainer {
+  align-self: stretch;
+  padding: 0 503.6578063964844px 0 0;
+}
+.divelementorElement2 {
+  position: absolute;
+  width: calc(100% - 20px);
+  top: calc(50% + 269.3px);
+  right: 9.6px;
+  left: 10.4px;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.divelementorWidgetWrap {
+  position: relative;
+  width: 700px;
+  height: 770px;
+}
+.versedLvmhLuxuryVentures {
+  position: absolute;
+  top: 49.5px;
+  left: 10px;
+  border-radius: 10px;
+  width: 541.6px;
+  height: 629px;
+  object-fit: cover;
+}
+.divelementorWidgetWrap2 {
+  position: absolute;
+  top: calc(50% - 364px);
+  left: 9.6px;
+  width: 595px;
+  height: 728px;
+}
+.divelementorWidgetWrap1 {
+  flex: 1;
+  position: relative;
+  height: 728px;
+}
+.divelementorColumn,
+.divelementorRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.divelementorColumn {
+  width: 700px;
+  height: 770px;
+  align-items: center;
+  padding: 0 0 0 105px;
+  box-sizing: border-box;
+  min-height: 1px;
+}
+.divelementorRow {
+  width: 1440px;
+  height: 806px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.desktop5Parent,
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer {
+  flex-shrink: 0;
+  align-items: flex-start;
+}
+.desktop5Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 6745px;
+  align-items: flex-end;
+  text-align: left;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}
+.design1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 6745px;
+  overflow: hidden;
+}

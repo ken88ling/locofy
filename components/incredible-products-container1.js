@@ -26,7 +26,7 @@ const IncredibleProductsContainer1 = memo(() => {
                 <div className={styles.list}>
                   <div className={styles.itemParent}>
                     <FormContainer
-                      imageDimensions="/item--link--4efd6bfd39021031ebe4114f89338028jpg@2x.png"
+                      imageDimensions="/item--link--4efd6bfd39021031ebe4114f89338028jpg1@2x.png"
                       propLeft="calc(50% - 117.6px)"
                     />
                     <FormContainer2
@@ -38,7 +38,7 @@ const IncredibleProductsContainer1 = memo(() => {
                         <img
                           className={styles.itemLink9083d9244f3896ce}
                           alt=""
-                          src="/item--link--dbe3a9ba02669c48c2b327217d87cffbjpg@2x.png"
+                          src="/item--link--dbe3a9ba02669c48c2b327217d87cffbjpg1@2x.png"
                         />
                       </div>
                       <div className={styles.divproductDetails}>
@@ -61,7 +61,7 @@ const IncredibleProductsContainer1 = memo(() => {
                               <img
                                 className={styles.icon}
                                 alt=""
-                                src="/icon@2x.png"
+                                src="/icon1@2x.png"
                               />
                             </div>
                             <div className={styles.span}>
@@ -69,7 +69,7 @@ const IncredibleProductsContainer1 = memo(() => {
                                 <img
                                   className={styles.icon}
                                   alt=""
-                                  src="/icon@2x.png"
+                                  src="/icon1@2x.png"
                                 />
                               </div>
                             </div>
@@ -148,7 +148,7 @@ const IncredibleProductsContainer1 = memo(() => {
                       <img
                         className={styles.itemLink9083d9244f3896ce}
                         alt=""
-                        src="/item--link--a00d364eef8f7b258b07ef8423e8a080jpg@2x.png"
+                        src="/item--link--a00d364eef8f7b258b07ef8423e8a080jpg1@2x.png"
                       />
                       <div className={styles.divproductDetails3}>
                         <div className={styles.itemStrongLinkParent}>
@@ -168,7 +168,7 @@ const IncredibleProductsContainer1 = memo(() => {
                               <img
                                 className={styles.icon}
                                 alt=""
-                                src="/icon@2x.png"
+                                src="/icon1@2x.png"
                               />
                             </div>
                             <div className={styles.span2}>
@@ -176,7 +176,7 @@ const IncredibleProductsContainer1 = memo(() => {
                                 <img
                                   className={styles.icon}
                                   alt=""
-                                  src="/icon@2x.png"
+                                  src="/icon1@2x.png"
                                 />
                               </div>
                             </div>
@@ -192,7 +192,7 @@ const IncredibleProductsContainer1 = memo(() => {
                       <img
                         className={styles.itemLink9083d9244f3896ce}
                         alt=""
-                        src="/item--link--9083d9244f3896ce2da7732ab984d3d2jpg@2x.png"
+                        src="/item--link--9083d9244f3896ce2da7732ab984d3d2jpg1@2x.png"
                       />
                       <div className={styles.divproductDetails}>
                         <div className={styles.itemStrongLinkParent1}>

@@ -44,12 +44,12 @@ const PersonalCareProductsContainer1 = memo(() => {
                               <img
                                 className={styles.frameIcon}
                                 alt=""
-                                src="/frame@2x.png"
+                                src="/frame6@2x.png"
                               />
                               <img
                                 className={styles.frameIcon}
                                 alt=""
-                                src="/frame@2x.png"
+                                src="/frame7@2x.png"
                               />
                             </div>
                             <Button
@@ -105,7 +105,7 @@ const PersonalCareProductsContainer1 = memo(() => {
                           <img
                             className={styles.itemLink9083d9244f3896ce}
                             alt=""
-                            src="/item--link--4efd6bfd39021031ebe4114f89338028jpg@2x.png"
+                            src="/item--link--4efd6bfd39021031ebe4114f89338028jpg2@2x.png"
                           />
                           <div className={styles.divproductDetails1}>
                             <div className={styles.itemStrongLinkGroup}>
@@ -137,7 +137,7 @@ const PersonalCareProductsContainer1 = memo(() => {
                             <img
                               className={styles.itemLink9083d9244f3896ce}
                               alt=""
-                              src="/item--link--dbe3a9ba02669c48c2b327217d87cffbjpg@2x.png"
+                              src="/item--link--dbe3a9ba02669c48c2b327217d87cffbjpg2@2x.png"
                             />
                           </div>
                           <div className={styles.divproductDetails2}>
@@ -175,7 +175,7 @@ const PersonalCareProductsContainer1 = memo(() => {
                           <img
                             className={styles.itemLink9083d9244f3896ce}
                             alt=""
-                            src="/item--link--9083d9244f3896ce2da7732ab984d3d2jpg@2x.png"
+                            src="/item--link--9083d9244f3896ce2da7732ab984d3d2jpg2@2x.png"
                           />
                           <div className={styles.divproductDetails3}>
                             <div className={styles.itemStrongLinkParent}>

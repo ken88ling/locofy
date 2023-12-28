@@ -20,7 +20,7 @@ const TimelessBeautyCard = memo(() => {
         <img
           className={styles.pngClipartSmilingWomanSpaIcon}
           alt=""
-          src="/pngclipartsmilingwomanspafacialbathingskincarewomanbeautyskincreamhairaccessorythumbnail-1@2x.png"
+          src="/pngclipartsmilingwomanspafacialbathingskincarewomanbeautyskincreamhairaccessorythumbnail-11@2x.png"
         />
       </div>
     </section>

@@ -13,7 +13,7 @@ const HeroContainer = memo(() => {
         <img
           className={styles.monsteraLeafLineDrawing1}
           alt=""
-          src="/monstera-leaf--line-drawing@2x.png"
+          src="/monstera-leaf--line-drawing1@2x.png"
         />
         <img
           className={styles.gardeniaLineDrawing}
@@ -23,7 +23,7 @@ const HeroContainer = memo(() => {
         <img
           className={styles.gardeniaLineDrawing1}
           alt=""
-          src="/gardenia--line-drawing@2x.png"
+          src="/gardenia--line-drawing1@2x.png"
         />
         <img
           className={styles.chrysanthemumLineDrawing}
@@ -33,7 +33,7 @@ const HeroContainer = memo(() => {
         <img
           className={styles.chrysanthemumLineDrawing1}
           alt=""
-          src="/chrysanthemum--line-drawing@2x.png"
+          src="/chrysanthemum--line-drawing1@2x.png"
         />
         <img
           className={styles.carnationLineDrawing}
@@ -43,7 +43,7 @@ const HeroContainer = memo(() => {
         <img
           className={styles.carnationLineDrawing1}
           alt=""
-          src="/carnation--line-drawing@2x.png"
+          src="/carnation--line-drawing1@2x.png"
         />
         <img
           className={styles.tulipLineDrawing}
@@ -53,7 +53,7 @@ const HeroContainer = memo(() => {
         <img
           className={styles.tulipLineDrawing1}
           alt=""
-          src="/tulip--line-drawing@2x.png"
+          src="/tulip--line-drawing1@2x.png"
         />
         <img
           className={styles.hyacinthLineDrawing}

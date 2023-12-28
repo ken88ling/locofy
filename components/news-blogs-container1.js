@@ -34,20 +34,20 @@ const NewsBlogsContainer1 = memo(() => {
               <div className={styles.divelementorElement1}>
                 <div className={styles.divtplBlogHolder}>
                   <ContainerCardFormFilter1
-                    carDimensions="/blog1webp@2x.png"
-                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png@2x.png"
+                    carDimensions="/blog1webp1@2x.png"
+                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png1@2x.png"
                     onLinkContainer3Click={onLinkContainerClick}
                     onLinkContainer5Click={onLinkContainer2Click}
                   />
                   <ContainerCardFormFilter1
-                    carDimensions="/blog1webp@2x.png"
-                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png@2x.png"
+                    carDimensions="/blog1webp2@2x.png"
+                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png2@2x.png"
                     onLinkContainer3Click={onLinkContainerClick}
                     onLinkContainer5Click={onLinkContainer2Click}
                   />
                   <ContainerCardFormFilter1
-                    carDimensions="/blog1webp@2x.png"
-                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png@2x.png"
+                    carDimensions="/blog1webp3@2x.png"
+                    carImageDimensions="/list--item--link--6b50acd2c9aeef332a1c4951047401b9png3@2x.png"
                     onLinkContainer3Click={onLinkContainerClick}
                     onLinkContainer5Click={onLinkContainer2Click}
                   />

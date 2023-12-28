@@ -79,7 +79,7 @@ const ConnectWithUsContainer = memo(() => {
                     <img
                       className={styles.frameIcon}
                       alt=""
-                      src="/frame@2x.png"
+                      src="/frame1@2x.png"
                     />
                   </div>
                 </div>
@@ -91,7 +91,7 @@ const ConnectWithUsContainer = memo(() => {
                     <img
                       className={styles.frameIcon}
                       alt=""
-                      src="/frame@2x.png"
+                      src="/frame2@2x.png"
                     />
                   </div>
                 </div>
@@ -103,7 +103,7 @@ const ConnectWithUsContainer = memo(() => {
                     <img
                       className={styles.frameIcon}
                       alt=""
-                      src="/frame@2x.png"
+                      src="/frame3@2x.png"
                     />
                   </div>
                 </div>
@@ -115,7 +115,7 @@ const ConnectWithUsContainer = memo(() => {
                     <img
                       className={styles.frameIcon}
                       alt=""
-                      src="/frame@2x.png"
+                      src="/frame4@2x.png"
                     />
                   </div>
                 </div>
@@ -127,7 +127,7 @@ const ConnectWithUsContainer = memo(() => {
                     <img
                       className={styles.frameIcon}
                       alt=""
-                      src="/frame@2x.png"
+                      src="/frame5@2x.png"
                     />
                   </div>
                 </div>

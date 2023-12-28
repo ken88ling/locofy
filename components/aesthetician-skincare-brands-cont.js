@@ -54,7 +54,7 @@ const AestheticianSkincareBrandsCont = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg17@2x.png"
                       />
                     </div>
                   </div>
@@ -85,7 +85,7 @@ const AestheticianSkincareBrandsCont = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg18@2x.png"
                       />
                     </div>
                   </div>
@@ -116,7 +116,7 @@ const AestheticianSkincareBrandsCont = memo(() => {
                       <img
                         className={styles.svgIcon}
                         alt=""
-                        src="/svg@2x.png"
+                        src="/svg19@2x.png"
                       />
                     </div>
                   </div>
