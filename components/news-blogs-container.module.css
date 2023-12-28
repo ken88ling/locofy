@@ -1,0 +1,326 @@
+.latest {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.divwdtHeadingSubtitleWrapp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 94.99685668945312px 0 95.28314208984375px;
+}
+.newsBlogs {
+  position: relative;
+  line-height: 52.62px;
+  font-weight: 500;
+  display: inline-block;
+  max-height: 52.619998931884766px;
+}
+.heading2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-size: 43.8px;
+  color: #000;
+  font-family: Outfit;
+}
+.divelementorElement,
+.divwdtHeadingF9a28d3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtHeadingF9a28d3 {
+  align-self: stretch;
+  gap: 10px;
+}
+.divelementorElement {
+  position: absolute;
+  height: calc(100% - 588.4px);
+  top: 24.4px;
+  bottom: 564px;
+  left: calc(50% - 128.4px);
+  padding: 0 0 39.99000549316406px;
+  box-sizing: border-box;
+  max-width: 1440px;
+}
+.distinctivelyReconceptualize {
+  margin: 0;
+}
+.distinctivelyReconceptualizeContainer {
+  position: relative;
+  line-height: 26.24px;
+  display: inline-block;
+  max-width: 429.95001220703125px;
+}
+.diventryBodymargin,
+.p {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.p {
+  align-self: stretch;
+  padding: 0 68.95001220703125px 0 0;
+}
+.diventryBodymargin {
+  position: absolute;
+  width: 100%;
+  top: 393.3px;
+  right: 0;
+  left: 0;
+  padding: 0 0 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #202020;
+}
+.blog1webpIcon {
+  position: relative;
+  width: 472.9px;
+  height: 283.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link {
+  position: absolute;
+  top: 0;
+  left: -31.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.listItemLink6b50acd2c {
+  position: absolute;
+  top: calc(50% - 238.9px);
+  left: calc(50% - 215px);
+  width: 450px;
+  height: 450px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.diventryThumb {
+  align-self: stretch;
+  position: relative;
+  height: 283.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.diventryThumbmargin {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 28px;
+  box-sizing: border-box;
+}
+.premiumFeatherLightComfortContainer {
+  position: relative;
+  line-height: 33.28px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.diventryTitlemargin,
+.heading4,
+.link1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link1 {
+  flex-direction: row;
+  padding: 0 14.95001220703125px 0 0;
+}
+.diventryTitlemargin,
+.heading4 {
+  flex-direction: column;
+}
+.heading4 {
+  align-self: stretch;
+}
+.diventryTitlemargin {
+  position: absolute;
+  width: 100%;
+  top: 311.8px;
+  right: 0;
+  left: 0;
+  padding: 0 0 14.529998779296875px;
+  box-sizing: border-box;
+  font-size: 26px;
+  font-family: Outfit;
+}
+.before {
+  position: absolute;
+  margin: 0 !important;
+  width: 98.91%;
+  right: 0;
+  bottom: 1px;
+  left: 1.09%;
+  background-color: #000;
+  height: 1px;
+  z-index: 0;
+}
+.readMore {
+  position: relative;
+  letter-spacing: 2.38px;
+  text-transform: uppercase;
+  color: inherit;
+  text-decoration: none;
+  z-index: 1;
+}
+.after {
+  position: absolute;
+  margin: 0 !important;
+  width: 98.91%;
+  right: 98.91%;
+  bottom: 1px;
+  left: -97.83%;
+  background-color: #000;
+  height: 1px;
+  z-index: 2;
+}
+.diventryButton,
+.link2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.link2 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 1px 6px;
+  position: relative;
+  cursor: pointer;
+}
+.diventryButton {
+  position: absolute;
+  height: calc(100% - 487px);
+  width: 100%;
+  top: 487px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 337.95001220703125px 0 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.jun12 {
+  position: relative;
+  letter-spacing: 2.38px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.diventryDate {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #fddbd7;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 8.479995727539062px 6px 10px;
+}
+.article {
+  align-self: stretch;
+  position: relative;
+  height: 508px;
+  min-height: 507.9840087890625px;
+}
+.divelementorElement1,
+.diventryGridLayout,
+.divtplBlogHolder {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diventryGridLayout {
+  width: 460px;
+  height: 588px;
+  flex-direction: column;
+  padding: 15px 15px 64.99996948242188px;
+  box-sizing: border-box;
+  min-height: 1px;
+}
+.divelementorElement1,
+.divtplBlogHolder {
+  align-self: stretch;
+}
+.divtplBlogHolder {
+  height: 588px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 0.1400146484375px 0 0;
+  box-sizing: border-box;
+}
+.divelementorElement1 {
+  flex: 1;
+  flex-direction: column;
+}
+.divelementorContainer1,
+.section1 {
+  width: 1440px;
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorContainer1 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 30px;
+  box-sizing: border-box;
+  max-width: 1440px;
+}
+.section1 {
+  position: absolute;
+  height: calc(100% - 119px);
+  top: 143.1px;
+  bottom: -24.1px;
+  left: calc(50% - 719.8px);
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  font-size: 12px;
+  color: #000;
+}
+.divelementorWidgetWrap {
+  flex: 1;
+  position: relative;
+  height: 707px;
+}
+.divelementorContainer,
+.section {
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorContainer {
+  width: 1440px;
+  height: 706.6px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.section {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}

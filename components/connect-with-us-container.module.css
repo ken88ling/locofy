@@ -1,0 +1,161 @@
+.signUpTo {
+  position: relative;
+  line-height: 20px;
+}
+.diveastendfooterSignuptitle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 160px 0 0;
+}
+.signMeUp {
+  position: relative;
+  line-height: 16.8px;
+  text-transform: uppercase;
+}
+.buttonSignMeUp,
+.divsignup,
+.form {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.buttonSignMeUp {
+  border-radius: 1px;
+  background-color: #fd9186;
+  border: 2px solid #fd9186;
+  flex-direction: column;
+  align-items: center;
+  padding: 11.600000381469727px 32.070186614990234px 11.600000381469727px
+    33.70981216430664px;
+}
+.divsignup,
+.form {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.divsignup {
+  background-color: #fd9186;
+  flex-direction: column;
+}
+.diveastendfooterSignupbutton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+  color: #fddbd7;
+  font-family: Lato;
+}
+.diveastendfooterFirstcolumn1,
+.diveastendfooterSignup,
+.diveastendfooterSignuptext {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diveastendfooterSignuptext {
+  align-self: stretch;
+  gap: 16px;
+}
+.diveastendfooterFirstcolumn1,
+.diveastendfooterSignup {
+  height: 81.8px;
+  padding: 0 0 5.600006103515625px 8px;
+  box-sizing: border-box;
+}
+.diveastendfooterFirstcolumn1 {
+  height: 107.4px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 0 25.600000381469727px;
+}
+.diveastendFooterSocialButt,
+.diveastendfooterFirstcolumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diveastendfooterFirstcolumn {
+  flex-shrink: 0;
+  padding: 0 16px;
+}
+.diveastendFooterSocialButt {
+  align-self: stretch;
+  padding: 0 552px 0 0;
+}
+.frameIcon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 40px;
+  object-fit: cover;
+}
+.linkFacebookSvg {
+  border-radius: 20px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  cursor: pointer;
+}
+.item,
+.linkFacebookSvg,
+.listConnectWithUs {
+  display: flex;
+  justify-content: flex-start;
+}
+.item {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 16px 13.799999237060547px 0;
+}
+.listConnectWithUs {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.diveastendfootersocialicons {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.diveastendfooterSectiontwoco,
+.diveastendfooterSocialicons1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diveastendfooterSocialicons1 {
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 17.600000381469727px;
+  gap: 16px;
+}
+.diveastendfooterSectiontwoco {
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 24px 16px 0;
+  box-sizing: border-box;
+  max-width: 1400px;
+}
+.diveastendfooterSectiontwoL {
+  align-self: stretch;
+  background-color: #fddbd7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1px 20px 0;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Poly;
+}

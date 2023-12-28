@@ -1,0 +1,102 @@
+.image1Icon {
+  position: absolute;
+  top: -48px;
+  left: 51.6px;
+  width: 1440px;
+  height: 519px;
+  object-fit: cover;
+}
+.timelessBeauty,
+.unveilYourGlow {
+  position: relative;
+  height: 80px;
+  flex-shrink: 0;
+}
+.timelessBeauty {
+  line-height: 64px;
+  display: flex;
+  align-items: center;
+  width: 626px;
+}
+.unveilYourGlow {
+  font-size: 18px;
+  line-height: 32px;
+  display: inline-block;
+  color: #474747;
+  width: 448px;
+}
+.shopNow,
+.shopNowWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shopNow {
+  position: relative;
+  line-height: 32px;
+  width: 160px;
+  flex-shrink: 0;
+}
+.shopNowWrapper {
+  border-radius: 5px;
+  background-color: #fd9186;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.frame,
+.timelessBeautyParent {
+  display: flex;
+  flex-direction: column;
+}
+.timelessBeautyParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame {
+  position: absolute;
+  top: -196.4px;
+  left: 720px;
+  width: 626px;
+  height: 588.4px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: flex-end;
+}
+.pngClipartSmilingWomanSpaIcon {
+  position: undefined;
+  width: 843.4px;
+  height: 613px;
+  object-fit: cover;
+  margin-top: 230px;
+}
+.frame1 {
+  position: absolute;
+  top: -196.4px;
+  left: -12px;
+  width: 1596.3px;
+  height: 845.6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 91px;
+  box-sizing: border-box;
+}
+.hero3 {
+  position: relative;
+  background-color: #fddbd7;
+  width: 1440px;
+  height: 519px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 56px;
+  color: #650b0d;
+  font-family: "Open Sans";
+}

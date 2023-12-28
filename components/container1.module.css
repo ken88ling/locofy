@@ -1,0 +1,105 @@
+.brandLogo5webpIcon {
+  position: relative;
+  width: 184px;
+  height: 72px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 184px;
+}
+.divwdtAnimationItem,
+.divwdtAnimationItem1,
+.divwdtAnimationItem2 {
+  position: absolute;
+  top: 0;
+  left: 28.8px;
+  width: 184px;
+  height: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divwdtAnimationItem1,
+.divwdtAnimationItem2 {
+  left: 234.6px;
+}
+.divwdtAnimationItem2 {
+  left: 440.3px;
+}
+.logo1webpIcon {
+  position: relative;
+  width: 165px;
+  height: 65px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 184px;
+}
+.divwdtAnimationItem3,
+.divwdtAnimationItem4,
+.divwdtAnimationItem5,
+.divwdtAnimationItem6 {
+  position: absolute;
+  top: 0;
+  left: 646px;
+  width: 184px;
+  height: 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 9.5px;
+  box-sizing: border-box;
+}
+.divwdtAnimationItem4,
+.divwdtAnimationItem5,
+.divwdtAnimationItem6 {
+  left: 851.7px;
+}
+.divwdtAnimationItem5,
+.divwdtAnimationItem6 {
+  left: 1057.4px;
+}
+.divwdtAnimationItem6 {
+  left: 1263.1px;
+}
+.after,
+.before {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  width: 160px;
+}
+.before {
+  left: 0;
+  background: linear-gradient(90deg, #fcf7ee, rgba(255, 255, 255, 0));
+}
+.after {
+  right: 0;
+  background: linear-gradient(-90deg, #fcf7ee, rgba(255, 255, 255, 0));
+}
+.divelementorElement {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.divelementorContainer,
+.section {
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorContainer {
+  width: 1440px;
+  height: 72px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.section {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0 40px;
+}

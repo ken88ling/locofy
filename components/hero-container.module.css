@@ -1,0 +1,173 @@
+.monsteraLeafLineDrawing,
+.monsteraLeafLineDrawing1 {
+  position: absolute;
+  top: 550.4px;
+  left: 27px;
+  width: 189.9px;
+  height: 196.1px;
+  object-fit: contain;
+}
+.monsteraLeafLineDrawing1 {
+  top: 148.5px;
+  left: 1243.1px;
+  width: 246.8px;
+  height: 248.7px;
+}
+.gardeniaLineDrawing {
+  position: absolute;
+  top: 139.4px;
+  left: 0;
+  width: 271.6px;
+  height: 384.2px;
+  object-fit: cover;
+}
+.gardeniaLineDrawing1 {
+  position: absolute;
+  top: 318.4px;
+  left: 842px;
+  width: 478.3px;
+  height: 527.3px;
+  object-fit: contain;
+}
+.chrysanthemumLineDrawing {
+  position: absolute;
+  top: 376.4px;
+  left: 217px;
+  width: 213.7px;
+  height: 214.4px;
+  object-fit: cover;
+}
+.chrysanthemumLineDrawing1 {
+  position: absolute;
+  top: 172.7px;
+  left: 964.3px;
+  width: 291.1px;
+  height: 291.3px;
+  object-fit: contain;
+}
+.carnationLineDrawing {
+  position: absolute;
+  top: 223.4px;
+  left: 453px;
+  width: 170.7px;
+  height: 189.4px;
+  object-fit: cover;
+}
+.carnationLineDrawing1 {
+  position: absolute;
+  top: 234.1px;
+  left: 721.3px;
+  width: 241.3px;
+  height: 248.5px;
+  object-fit: contain;
+}
+.tulipLineDrawing {
+  position: absolute;
+  top: 482.4px;
+  left: 453px;
+  width: 162.4px;
+  height: 203.1px;
+  object-fit: cover;
+}
+.hyacinthLineDrawing,
+.tulipLineDrawing1 {
+  position: absolute;
+  top: 0;
+  left: 854.7px;
+  width: 240.8px;
+  height: 256.5px;
+  object-fit: contain;
+}
+.hyacinthLineDrawing {
+  top: 433.4px;
+  left: 1243px;
+  width: 353.3px;
+  height: 411.5px;
+}
+.quakingGrassLineDrawing {
+  position: absolute;
+  top: 444.4px;
+  left: 663px;
+  width: 170.2px;
+  height: 279.4px;
+  object-fit: cover;
+}
+.monsteraLeafLineDrawingParent {
+  position: absolute;
+  top: -196.4px;
+  left: -12px;
+  width: 1596.3px;
+  height: 845.6px;
+  opacity: 0.2;
+}
+.pngClipartSmilingWomanSpaIcon {
+  position: absolute;
+  top: 34px;
+  left: 79px;
+  width: 556px;
+  height: 613px;
+  object-fit: cover;
+}
+.catchphrase,
+.supportingText {
+  position: relative;
+  height: 80px;
+  flex-shrink: 0;
+}
+.catchphrase {
+  line-height: 64px;
+  display: flex;
+  align-items: center;
+  width: 626px;
+}
+.supportingText {
+  font-size: 18px;
+  line-height: 32px;
+  display: inline-block;
+  color: #474747;
+  width: 448px;
+}
+.shopNow,
+.shopNowWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shopNow {
+  position: relative;
+  line-height: 32px;
+  width: 160px;
+  flex-shrink: 0;
+}
+.shopNowWrapper {
+  border-radius: 5px;
+  background-color: #fd9186;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.catchphraseParent {
+  position: absolute;
+  top: 128px;
+  left: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.hero3 {
+  position: relative;
+  background-color: #fddbd7;
+  width: 1440px;
+  height: 519px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 56px;
+  color: #650b0d;
+  font-family: "Open Sans";
+}

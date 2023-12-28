@@ -1,0 +1,115 @@
+.icon,
+.listItemLinkAa0c20542 {
+  position: relative;
+  width: 323.5px;
+  height: 323.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.icon {
+  width: 90px;
+  height: 16px;
+}
+.before,
+.span {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.before {
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span {
+  height: 100%;
+  width: 60%;
+  right: 40%;
+  bottom: 0;
+  overflow: hidden;
+}
+.imgRated300OutOf5 {
+  position: relative;
+  width: 88px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divproductRatingWrapper {
+  position: absolute;
+  top: 52.5px;
+  left: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 103.25px;
+}
+.divproductPrice {
+  position: absolute;
+  width: calc(100% - 29.5px);
+  top: 76.5px;
+  right: 15px;
+  left: 14.5px;
+}
+.itemStrong {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 87.8px);
+  font-size: 16px;
+  line-height: 20.48px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: Outfit;
+  color: #000;
+}
+.itemList,
+.itemList1 {
+  position: absolute;
+  top: 26.6px;
+  left: calc(50% - 118px);
+  line-height: 15.4px;
+}
+.itemList1 {
+  top: 42.4px;
+  left: calc(50% - 23.7px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48.6px;
+  height: 16px;
+}
+.itemListContainer {
+  position: absolute;
+  top: 57.8px;
+  left: calc(50% - 65.8px);
+  font-size: 14px;
+  line-height: 19.6px;
+  color: #555;
+}
+.itemStrongLinkParent {
+  position: absolute;
+  top: 21.3px;
+  left: calc(50% - 117.6px);
+  width: 236px;
+  height: 77.8px;
+}
+.divproductDetails {
+  align-self: stretch;
+  position: relative;
+  height: 120.5px;
+}
+.item {
+  width: 324px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 11px;
+  color: #969696;
+  font-family: "Noto Sans KR";
+}

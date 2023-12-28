@@ -1,0 +1,395 @@
+.monsteraLeafLineDrawing,
+.monsteraLeafLineDrawing1 {
+  position: absolute;
+  top: 550.4px;
+  left: 27px;
+  width: 189.9px;
+  height: 196.1px;
+  object-fit: contain;
+}
+.monsteraLeafLineDrawing1 {
+  top: 148.5px;
+  left: 1243.1px;
+  width: 246.8px;
+  height: 248.7px;
+}
+.gardeniaLineDrawing {
+  position: absolute;
+  top: 139.4px;
+  left: 0;
+  width: 271.6px;
+  height: 384.2px;
+  object-fit: cover;
+}
+.gardeniaLineDrawing1 {
+  position: absolute;
+  top: 318.4px;
+  left: 842px;
+  width: 478.3px;
+  height: 527.3px;
+  object-fit: contain;
+}
+.chrysanthemumLineDrawing {
+  position: absolute;
+  top: 376.4px;
+  left: 217px;
+  width: 213.7px;
+  height: 214.4px;
+  object-fit: cover;
+}
+.chrysanthemumLineDrawing1 {
+  position: absolute;
+  top: 172.7px;
+  left: 964.3px;
+  width: 291.1px;
+  height: 291.3px;
+  object-fit: contain;
+}
+.carnationLineDrawing {
+  position: absolute;
+  top: 223.4px;
+  left: 453px;
+  width: 170.7px;
+  height: 189.4px;
+  object-fit: cover;
+}
+.carnationLineDrawing1 {
+  position: absolute;
+  top: 234.1px;
+  left: 721.3px;
+  width: 241.3px;
+  height: 248.5px;
+  object-fit: contain;
+}
+.tulipLineDrawing {
+  position: absolute;
+  top: 482.4px;
+  left: 453px;
+  width: 162.4px;
+  height: 203.1px;
+  object-fit: cover;
+}
+.hyacinthLineDrawing,
+.tulipLineDrawing1 {
+  position: absolute;
+  top: 0;
+  left: 854.7px;
+  width: 240.8px;
+  height: 256.5px;
+  object-fit: contain;
+}
+.hyacinthLineDrawing {
+  top: 433.4px;
+  left: 1243px;
+  width: 353.3px;
+  height: 411.5px;
+}
+.quakingGrassLineDrawing {
+  position: absolute;
+  top: 444.4px;
+  left: 663px;
+  width: 170.2px;
+  height: 279.4px;
+  object-fit: cover;
+}
+.monsteraLeafLineDrawingParent {
+  position: absolute;
+  top: -196.4px;
+  left: -12px;
+  width: 1596.3px;
+  height: 845.6px;
+  opacity: 0.2;
+}
+.awardWinningBeauty {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 680px;
+}
+.divwdtHeadingSubtitleWrapp {
+  width: 680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 322px 0 0;
+  box-sizing: border-box;
+}
+.highlyPerformingBeautyFormu {
+  position: relative;
+  line-height: 52.8px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 680px;
+  max-height: 52.79999923706055px;
+}
+.heading3 {
+  width: 680px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+  font-size: 44px;
+  color: #000;
+  font-family: Outfit;
+}
+.etiamUllamcorperFacilisis {
+  margin: 0;
+}
+.etiamUllamcorperFacilisisContainer {
+  position: relative;
+  line-height: 26.24px;
+  display: inline-block;
+  max-width: 680px;
+}
+.divwdtHeadingContentWrappe {
+  width: 680px;
+  align-items: flex-start;
+  padding: 0 31px 0 0;
+  box-sizing: border-box;
+}
+.divelementorElementmargin,
+.divwdtHeadingContentWrappe,
+.divwdtHeadingD588fa3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.divwdtHeadingD588fa3 {
+  width: 680px;
+  height: 154.7px;
+  align-items: center;
+  gap: 10px;
+}
+.divelementorElementmargin {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 30px;
+}
+.exploreNow {
+  position: relative;
+  letter-spacing: 2.38px;
+  text-transform: uppercase;
+  color: inherit;
+  text-decoration: none;
+}
+.divwdtButtonText,
+.span {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.span {
+  align-self: stretch;
+  align-items: center;
+  padding: 0 0.5237312316894531px 1px 0.8962669372558594px;
+}
+.divwdtButtonText {
+  align-items: flex-start;
+  padding: 12.769000053405762px 32.46110153198242px;
+}
+.divwdtButton3ff0c0c,
+.link {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link {
+  align-self: stretch;
+  background-color: #fd9186;
+  justify-content: center;
+  cursor: pointer;
+}
+.divwdtButton3ff0c0c {
+  justify-content: flex-start;
+}
+.divelementorWidgetContainer {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 503.6578063964844px 0 0;
+}
+.divelementorElement,
+.divelementorWidgetContainer,
+.divelementorWidgetWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.divelementorElement {
+  align-self: stretch;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.divelementorWidgetWrap {
+  width: 700px;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.playVideo {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 26.24px;
+  text-transform: uppercase;
+}
+.after {
+  align-self: stretch;
+  position: relative;
+  background-color: #000;
+  height: 1px;
+  opacity: 0.6;
+}
+.aftermargin,
+.spanwdtPopupBoxTriggerIte1 {
+  width: 43px;
+  height: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+}
+.spanwdtPopupBoxTriggerIte1 {
+  width: 157.5px;
+  height: 45px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 9.370000839233398px 0 8.629999160766602px;
+  gap: 2px;
+}
+.spanwdtPopupBoxTriggerIte {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px 0 0;
+}
+.after1 {
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 22.5px;
+  background-color: #f1e8eb;
+  box-shadow: 0 0 0 10px rgba(215, 201, 204, 0.2),
+    0 0 0 20px rgba(215, 201, 204, 0.2), 0 0 0 30px rgba(215, 201, 204, 0.2);
+  overflow: hidden;
+  z-index: 0;
+}
+.svgIcon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.spanwdtPopupBoxTriggerIte2 {
+  width: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 13.5px 11.5px 13.5px 15.5px;
+  box-sizing: border-box;
+  position: relative;
+}
+.divwdtPopupBoxTriggerElem {
+  align-self: stretch;
+}
+.divelementorElement1,
+.divelementorWidgetContainer1,
+.divwdtPopupBoxTriggerB4cf,
+.divwdtPopupBoxTriggerElem {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divelementorElement1,
+.divelementorWidgetContainer1 {
+  flex-direction: column;
+}
+.divelementorWidgetContainer1 {
+  align-self: stretch;
+  padding: 0 45px 0 0;
+}
+.divelementorElement1 {
+  flex-shrink: 0;
+  max-width: 700px;
+}
+.divelementorWidgetWrap1 {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 100.12999725341797px 10px 100.12000274658203px 412.5199890136719px;
+  box-sizing: border-box;
+  color: #000;
+}
+.divelementorRow1 {
+  align-self: stretch;
+  width: 1400px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divelementorContainer {
+  width: 1440px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 1440px;
+}
+.divelementorContainer,
+.divelementorRow,
+.section {
+  display: flex;
+  justify-content: flex-start;
+}
+.section {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+}
+.divelementorRow {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 122.6px);
+  right: 0;
+  left: 0;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.hotelWallpaperPattern {
+  position: relative;
+  background-color: #fddbd7;
+  width: 1440px;
+  height: 550px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}

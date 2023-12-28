@@ -1,0 +1,181 @@
+.theVcarecomLtd {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.pthgcopyrightText {
+  padding: 0 480px 0 0;
+}
+.diveastendfooterLogocontaine,
+.diveastendfooterLogocontaine1,
+.divthgcopyright,
+.pthgcopyrightText {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divthgcopyright {
+  align-self: stretch;
+  padding: 0 8px 16px 0;
+}
+.diveastendfooterLogocontaine,
+.diveastendfooterLogocontaine1 {
+  flex-shrink: 0;
+  padding: 8px 0 0;
+}
+.diveastendfooterLogocontaine {
+  padding: 32px 16px 24px;
+}
+.paySecurelyWith {
+  position: relative;
+  line-height: 24px;
+}
+.svgIcon {
+  position: relative;
+  width: 60px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.item {
+  border-radius: 2px;
+  background-color: #fddbd7;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 2px;
+}
+.itemmargin,
+.itemmargin1,
+.itemmargin2,
+.itemmargin3,
+.itemmargin4,
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+}
+.itemmargin1,
+.itemmargin2,
+.itemmargin3,
+.itemmargin4,
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  left: 64px;
+}
+.itemmargin2,
+.itemmargin3,
+.itemmargin4,
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  left: 128px;
+}
+.itemmargin3,
+.itemmargin4,
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  left: 192px;
+}
+.itemmargin4,
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  left: 256px;
+}
+.itemmargin5,
+.itemmargin6,
+.itemmargin7 {
+  left: 320px;
+}
+.itemmargin6,
+.itemmargin7 {
+  left: 384px;
+}
+.itemmargin7 {
+  left: 448px;
+}
+.svgIcon5 {
+  position: relative;
+  width: 60px;
+  height: 40px;
+  object-fit: cover;
+}
+.itemmargin10,
+.itemmargin8,
+.itemmargin9 {
+  position: absolute;
+  top: 0;
+  left: 512px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+}
+.itemmargin10,
+.itemmargin9 {
+  left: 576px;
+}
+.itemmargin10 {
+  top: 42px;
+  left: 0;
+}
+.listPaymentOptions {
+  align-self: stretch;
+  position: relative;
+  height: 84px;
+}
+.diveastendfooterPaysecurelyi {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.diveastendfooterPaysecureico,
+.diveastendfooterSectionfourc {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diveastendfooterPaysecureico {
+  flex-shrink: 0;
+  padding: 32px 544px 24px 0;
+  color: #000;
+}
+.diveastendfooterSectionfourc {
+  flex-wrap: wrap;
+  padding: 0 16px;
+  box-sizing: border-box;
+  max-width: 1400px;
+}
+.diveastendfooterSectionfour {
+  align-self: stretch;
+  background-color: #fddbd7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #757575;
+  font-family: Lato;
+}

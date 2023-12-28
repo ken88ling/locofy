@@ -1,0 +1,169 @@
+.followUs {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 700px;
+}
+.divwdtHeadingSubtitleWrapp {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 294.3237609863281px 0 294.6762390136719px;
+}
+.instagram {
+  position: relative;
+  line-height: 52.62px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 700px;
+  max-height: 52.619998931884766px;
+}
+.heading2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 248.82162475585938px 0 249.17837524414062px;
+  font-size: 43.8px;
+  color: #000;
+  font-family: Outfit;
+}
+.divelementorElement,
+.divwdtHeading48cb09c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtHeading48cb09c {
+  align-self: stretch;
+  gap: 10px;
+}
+.divelementorElement {
+  width: 700px;
+  padding: 0 0 39.99000549316406px;
+  box-sizing: border-box;
+  max-width: 700px;
+  z-index: 0;
+}
+.instaImg2webpIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 345px;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.divwdtContentImageWrapper,
+.link {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.link {
+  height: 345px;
+  align-items: flex-start;
+  cursor: pointer;
+}
+.divwdtContentImageWrapper {
+  align-self: stretch;
+  align-items: center;
+}
+.divwdtContentElementsGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divswiperSlidemargin {
+  width: 365px;
+  flex-direction: column;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.divswiperSlidemargin,
+.divwdtImageBoxSwiper940a4,
+.divwdtImageBoxWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtImageBoxWrapper {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+}
+.divwdtImageBoxSwiper940a4 {
+  width: 1440px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.divelementorElementmargin,
+.divelementorWidgetContainer,
+.divwdtImageBox940a420 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divelementorElementmargin,
+.divelementorWidgetContainer {
+  align-items: flex-start;
+}
+.divelementorWidgetContainer {
+  flex: 1;
+}
+.divelementorElementmargin {
+  padding: 0 0 20px;
+  z-index: 1;
+}
+.divelementorElement2 {
+  margin: 0 !important;
+  position: absolute;
+  height: 27.18%;
+  top: 11.99%;
+  right: 1px;
+  bottom: 60.83%;
+  width: 113px;
+  max-width: 1440px;
+  z-index: 2;
+}
+.divelementorWidgetWrap {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0 39.99998474121094px;
+  position: relative;
+}
+.divelementorContainer,
+.divelementorWidgetWrap,
+.section {
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorContainer {
+  width: 1440px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.section {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}

@@ -1,0 +1,443 @@
+.newCollections {
+  position: relative;
+  letter-spacing: 2.38px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 700px;
+}
+.divwdtHeadingSubtitleWrapp {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 232.81820678710938px 0 233.18179321289062px;
+}
+.personalCareProducts {
+  position: relative;
+  line-height: 52.62px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 700px;
+  max-height: 52.619998931884766px;
+}
+.heading2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 122.31636047363281px 0 122.68363952636719px;
+  font-size: 43.8px;
+  color: #000;
+  font-family: Outfit;
+}
+.divelementorElement,
+.divwdtHeadingA180990 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divwdtHeadingA180990 {
+  align-self: stretch;
+  gap: 10px;
+}
+.divelementorElement {
+  width: 700px;
+  padding: 0 0 39.99000549316406px;
+  box-sizing: border-box;
+  max-width: 700px;
+}
+.buttonGoToSlide1 {
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid #b6713e;
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+.before {
+  position: relative;
+  border-radius: 5.4px;
+  background-color: #b6713e;
+  width: 10.8px;
+  height: 10.8px;
+}
+.buttonGoToSlide2 {
+  border-radius: 7.2px;
+  width: 14.4px;
+  height: 14.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divwdtProductsBulletPagina {
+  margin: 0 !important;
+  position: absolute;
+  width: 100%;
+  right: -0.03%;
+  bottom: 10.4px;
+  left: 0.03%;
+  height: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 662px;
+  box-sizing: border-box;
+  gap: 4px;
+  z-index: 0;
+}
+.frame,
+.frameIcon {
+  width: 295px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameIcon {
+  position: relative;
+  height: 40px;
+  object-fit: cover;
+}
+.frame {
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.link {
+  align-self: stretch;
+}
+.itemLinkA00d364eef8f7b25,
+.itemStrong {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.itemLinkA00d364eef8f7b25 {
+  width: 323.5px;
+  height: 323.5px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 11.5px 24px 12px;
+  box-sizing: border-box;
+  gap: 128px;
+  background-image: url(/item--link--a00d364eef8f7b258b07ef8423e8a080jpg1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.itemStrong {
+  position: relative;
+  line-height: 20.48px;
+  text-transform: capitalize;
+  font-weight: 500;
+  justify-content: center;
+  width: 162.7px;
+  height: 20px;
+}
+.itemList,
+.itemList1 {
+  position: relative;
+  line-height: 15.4px;
+}
+.itemList1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48.6px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.itemListContainer {
+  position: relative;
+  font-size: 14px;
+  line-height: 19.6px;
+  color: #555;
+}
+.frame1,
+.itemStrongLinkParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame1 {
+  width: 132px;
+  height: 51.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 11px;
+  color: #969696;
+  font-family: "Noto Sans KR";
+}
+.itemStrongLinkParent {
+  width: 162.7px;
+  height: 77.8px;
+  gap: 6px;
+}
+.icon {
+  position: relative;
+  width: 90px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.before2,
+.before3 {
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.before3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.span {
+  position: relative;
+  width: 79.2px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-left: -90px;
+}
+.divproductRatingWrapper,
+.imgRated450OutOf5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.imgRated450OutOf5 {
+  width: 88px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.divproductRatingWrapper {
+  width: 296px;
+  justify-content: center;
+  padding: 0 99.5px;
+  box-sizing: border-box;
+  margin-top: -47px;
+}
+.divproductDetails,
+.divproductWrapper,
+.item {
+  width: 324px;
+  display: flex;
+  flex-direction: column;
+}
+.divproductDetails {
+  height: 121px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 52.0703125px 13.560546875px 52.9296875px 14.439453125px;
+  box-sizing: border-box;
+}
+.divproductWrapper,
+.item {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item {
+  width: 345px;
+  padding: 0 15px 35px;
+  box-sizing: border-box;
+}
+.itemStrong1 {
+  position: relative;
+  line-height: 20.48px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.frame2,
+.itemStrongLinkGroup {
+  width: 236px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame2 {
+  height: 51.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 11px;
+  color: #969696;
+  font-family: "Noto Sans KR";
+}
+.itemStrongLinkGroup {
+  height: 77.8px;
+  gap: 5px;
+}
+.imgRated400OutOf5 {
+  position: relative;
+  width: 88px;
+  height: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divproductDetails1 {
+  width: 324px;
+  height: 120.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 21.8896484375px 13.560546875px 21.8896484375px 14.439453125px;
+  box-sizing: border-box;
+}
+.divproductThumb {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span1 {
+  position: relative;
+  width: 70.4px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-left: -90px;
+}
+.divproductRatingWrapper2 {
+  width: 295px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 99.5px;
+  box-sizing: border-box;
+  margin-top: -47px;
+}
+.divproductDetails2,
+.divproductWrapper2 {
+  width: 323px;
+  display: flex;
+  flex-direction: column;
+}
+.divproductDetails2 {
+  height: 120.5px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 52.0703125px 13.560546875px 52.399688720703125px 14.439453125px;
+  box-sizing: border-box;
+}
+.divproductWrapper2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemLink9083d9244f3896ce {
+  position: relative;
+  width: 323.5px;
+  height: 323.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.divproductDetails3,
+.item3 {
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.divproductDetails3 {
+  width: 324px;
+  height: 120.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 52.0703125px 13.560546875px 52.399688720703125px 14.439453125px;
+}
+.item3 {
+  width: 339px;
+  padding: 0 15px 35px;
+}
+.divswiperuniqueid1,
+.item3,
+.list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list {
+  align-self: stretch;
+  flex-direction: row;
+  z-index: 1;
+}
+.divswiperuniqueid1 {
+  width: 1380px;
+  height: 510px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+.divwdtProductsCarouselCont {
+  align-self: stretch;
+  overflow: hidden;
+  align-items: center;
+}
+.divelementorElement1,
+.divelementorWidgetWrap,
+.divwdtProductsCarouselCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.divelementorElement1 {
+  width: 1380px;
+  align-items: flex-start;
+  color: #000;
+  font-family: Outfit;
+}
+.divelementorWidgetWrap {
+  align-self: stretch;
+  flex: 1;
+  align-items: center;
+}
+.divelementorContainer1 {
+  height: 639px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 30px;
+  box-sizing: border-box;
+  max-width: 1440px;
+}
+.divelementorContainer,
+.divelementorContainer1,
+.section {
+  width: 1440px;
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorContainer {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 100px 0;
+  box-sizing: border-box;
+}
+.section {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  color: #202020;
+  font-family: Lato;
+}

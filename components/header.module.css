@@ -1,0 +1,103 @@
+.vcareLogoIcon {
+  position: relative;
+  width: 91.4px;
+  height: 60px;
+  object-fit: cover;
+}
+.vcare,
+.vcareLogoParent {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+.vcare {
+  position: relative;
+  line-height: 32px;
+  width: 85px;
+  height: 40px;
+}
+.vcareLogoParent {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.home {
+  color: #650b0d;
+}
+.about,
+.home {
+  position: relative;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.mingcutedownLineIcon,
+.products {
+  position: absolute;
+  top: 0;
+  height: 40px;
+}
+.products {
+  left: 0;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+}
+.mingcutedownLineIcon {
+  left: 90px;
+  width: 40px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.productsParent {
+  position: relative;
+  width: 130px;
+  height: 40px;
+}
+.homeParent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  text-align: center;
+  font-size: 16px;
+  color: #474747;
+  font-family: Arial;
+}
+.frameChild {
+  position: relative;
+  width: 188px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frameParent {
+  width: 1280.4px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop5 {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 80px;
+  text-align: left;
+  font-size: 24px;
+  color: #650b0d;
+  font-family: "Open Sans";
+}

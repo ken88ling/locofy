@@ -1,0 +1,104 @@
+.itemStrong {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 81.35px);
+  font-size: 16px;
+  line-height: 20.48px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: Outfit;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162.7px;
+  height: 20px;
+}
+.itemList,
+.itemList1 {
+  position: absolute;
+  top: 26.6px;
+  left: calc(50% - 39.55px);
+  line-height: 15.4px;
+}
+.itemList1 {
+  top: 42.4px;
+  left: calc(50% - 24.25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48.6px;
+  height: 16px;
+}
+.itemListContainer {
+  position: absolute;
+  top: 57.8px;
+  left: calc(50% - 66.35px);
+  font-size: 14px;
+  line-height: 19.6px;
+  color: #555;
+}
+.itemStrongLinkParent {
+  position: absolute;
+  top: 21.9px;
+  left: calc(50% - 81.4px);
+  width: 162.7px;
+  height: 77.8px;
+}
+.icon {
+  position: relative;
+  width: 90px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.before,
+.span {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.before {
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span {
+  height: 100%;
+  width: 90%;
+  right: 10%;
+  bottom: 0;
+  overflow: hidden;
+}
+.imgRated450OutOf5 {
+  position: relative;
+  width: 88px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divproductRatingWrapper {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 52.1px;
+  right: 13.6px;
+  left: 14.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 99.5px;
+  box-sizing: border-box;
+}
+.divproductDetails {
+  position: relative;
+  width: 324px;
+  height: 121px;
+  text-align: center;
+  font-size: 11px;
+  color: #969696;
+  font-family: "Noto Sans KR";
+}
