@@ -1,8 +1,6 @@
 import { memo } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Button } from "react-bootstrap";
-import FormContainer from "./form-container";
-import FormContainer2 from "./form-container2";
 import styles from "./personal-care-products-container1.module.css";
 
 const PersonalCareProductsContainer1 = memo(() => {
@@ -110,7 +108,7 @@ const PersonalCareProductsContainer1 = memo(() => {
                           <div className={styles.divproductDetails1}>
                             <div className={styles.itemStrongLinkGroup}>
                               <div className={styles.itemStrong1}>
-                                Calming Water Gel Mask
+                                Test test test test
                               </div>
                               <div className={styles.frame2}>
                                 <div className={styles.itemList}>
@@ -145,7 +143,18 @@ const PersonalCareProductsContainer1 = memo(() => {
                               <div className={styles.itemStrong}>
                                 Moisture Sheet Mask
                               </div>
-                              <FormContainer />
+                              <div className={styles.frame1}>
+                                <div className={styles.itemList}>
+                                  Daily moisture mask
+                                </div>
+                                <div className={styles.itemList1}>
+                                  14g x 3ea
+                                </div>
+                                <div className={styles.itemListContainer}>
+                                  <span>{`Selling price : `}</span>
+                                  <span>$22.00</span>
+                                </div>
+                              </div>
                             </div>
                             <div className={styles.divproductRatingWrapper2}>
                               <div className={styles.imgRated450OutOf5}>
@@ -182,7 +191,18 @@ const PersonalCareProductsContainer1 = memo(() => {
                               <div className={styles.itemStrong}>
                                 Detoxing Sheet Mask
                               </div>
-                              <FormContainer2 />
+                              <div className={styles.frame1}>
+                                <div className={styles.itemList}>
+                                  Vitality filter mask
+                                </div>
+                                <div className={styles.itemList1}>
+                                  14g x 3ea
+                                </div>
+                                <div className={styles.itemListContainer}>
+                                  <span>{`Selling price : `}</span>
+                                  <span>$22.00</span>
+                                </div>
+                              </div>
                             </div>
                             <div className={styles.divproductRatingWrapper}>
                               <div className={styles.imgRated450OutOf5}>

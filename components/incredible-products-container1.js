@@ -77,85 +77,28 @@ const IncredibleProductsContainer1 = memo(() => {
                         </div>
                       </div>
                     </div>
-                    <div className={styles.item1}>
-                      <img
-                        className={styles.itemLink9083d9244f3896ce}
-                        alt=""
-                        src="/item--link--0c4d14a0feb45c73861a0ef4964312c2jpg@2x.png"
-                      />
-                      <div className={styles.divproductDetails}>
-                        <div className={styles.itemStrongLinkGroup}>
-                          <div className={styles.itemStrong1}>
-                            Calming Water Gel Mask
-                          </div>
-                          <div className={styles.itemList2}>
-                            Emergency moisturizing smoothing mask pack
-                          </div>
-                          <div className={styles.itemList3}>25g x 3ea</div>
-                          <div className={styles.itemListContainer1}>
-                            <span>{`Selling price : `}</span>
-                            <span>$22.00</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <FormContainer
+                      imageDimensions="/item--link--0c4d14a0feb45c73861a0ef4964312c2jpg@2x.png"
+                      propLeft="calc(50% - 118.1px)"
+                    />
                   </div>
                   <div className={styles.itemGroup}>
-                    <div className={styles.item1}>
-                      <img
-                        className={styles.itemLink9083d9244f3896ce}
-                        alt=""
-                        src="/list--item--link--aa0c2054200d0aa391778d15bf0c8b2fpng@2x.png"
-                      />
-                      <div className={styles.divproductDetails}>
-                        <div className={styles.divproductRatingWrapper1}>
-                          <div className={styles.imgRated400OutOf5}>
-                            <div className={styles.before}>
-                              <img
-                                className={styles.icon}
-                                alt=""
-                                src="/icon@2x.png"
-                              />
-                            </div>
-                            <div className={styles.span1}>
-                              <div className={styles.before}>
-                                <img
-                                  className={styles.icon}
-                                  alt=""
-                                  src="/icon@2x.png"
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div className={styles.divproductPrice} />
-                        <div className={styles.itemStrongLinkContainer}>
-                          <div className={styles.itemStrong1}>
-                            Calming Water Gel Mask
-                          </div>
-                          <div className={styles.itemList2}>
-                            Emergency moisturizing smoothing mask pack
-                          </div>
-                          <div className={styles.itemList3}>25g x 3ea</div>
-                          <div className={styles.itemListContainer1}>
-                            <span>{`Selling price : `}</span>
-                            <span>$22.00</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <FormContainer2
+                      imageDimensions="/list--item--link--aa0c2054200d0aa391778d15bf0c8b2fpng@2x.png"
+                      propLeft="calc(50% - 117.1px)"
+                    />
                     <div className={styles.item}>
                       <img
                         className={styles.itemLink9083d9244f3896ce}
                         alt=""
                         src="/item--link--a00d364eef8f7b258b07ef8423e8a080jpg1@2x.png"
                       />
-                      <div className={styles.divproductDetails3}>
+                      <div className={styles.divproductDetails1}>
                         <div className={styles.itemStrongLinkParent}>
                           <div className={styles.itemStrong}>
                             Exfoliation Sheet Mask
                           </div>
-                          <div className={styles.itemList6}>Pore care mask</div>
+                          <div className={styles.itemList2}>Pore care mask</div>
                           <div className={styles.itemList1}>14g x 3ea</div>
                           <div className={styles.itemListContainer}>
                             <span>{`Selling price : `}</span>
@@ -171,7 +114,7 @@ const IncredibleProductsContainer1 = memo(() => {
                                 src="/icon1@2x.png"
                               />
                             </div>
-                            <div className={styles.span2}>
+                            <div className={styles.span1}>
                               <div className={styles.before}>
                                 <img
                                   className={styles.icon}
@@ -188,18 +131,18 @@ const IncredibleProductsContainer1 = memo(() => {
                       imageDimensions="/item--link--8c30e942fe99006f5f0fb196ef06e2d6png@2x.png"
                       propLeft="calc(50% - 117.1px)"
                     />
-                    <div className={styles.item1}>
+                    <div className={styles.item2}>
                       <img
                         className={styles.itemLink9083d9244f3896ce}
                         alt=""
                         src="/item--link--9083d9244f3896ce2da7732ab984d3d2jpg1@2x.png"
                       />
                       <div className={styles.divproductDetails}>
-                        <div className={styles.itemStrongLinkParent1}>
+                        <div className={styles.itemStrongLinkContainer}>
                           <div className={styles.itemStrong}>
                             Detoxing Sheet Mask
                           </div>
-                          <div className={styles.itemList8}>
+                          <div className={styles.itemList4}>
                             Vitality filter mask
                           </div>
                           <div className={styles.itemList1}>14g x 3ea</div>
